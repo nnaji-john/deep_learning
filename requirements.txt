@@ -2,3 +2,7 @@ tensorflow
 keras
 pandas
 matplotlib
+scikit-learn
+numpy
+seaborn
+jupyterlab
